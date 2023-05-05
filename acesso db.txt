@@ -1,0 +1,3 @@
+nomedb: controledeconta
+userdb: contas10
+pass: @Sccf1Ci
